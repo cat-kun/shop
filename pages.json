@@ -1,0 +1,18 @@
+{
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "正佳抽鞋小工具"
+		}
+	}],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#ffffff",
+		"backgroundColor": "#ffffff",
+		"app-plus": {
+			"background": "#efeff4"
+		},
+    "navigationStyle": "custom"
+	}
+}
